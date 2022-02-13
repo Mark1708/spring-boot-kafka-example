@@ -30,6 +30,7 @@ To run the project, you need to run Kafka and Zookeeper. To do this, enter the c
 To track all sent messages you can enter the command:
 
 `docker exec --interactive --tty broker kafka-console-consumer --bootstrap-server broker:9092 --topic topicName --from-beginning`
+<br/>
 Then run kafka-consumer and kafka-producer via IDEA
 <br/>
 
