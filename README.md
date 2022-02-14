@@ -52,7 +52,7 @@ Content-Type: application/json
 
 ## Features
 * Used Apache Kafka
-* Used to start Kafka and Zookeeper
+* Used docker-compose to start Kafka and Zookeeper
 
 ## Status
 Project is: _finished_
